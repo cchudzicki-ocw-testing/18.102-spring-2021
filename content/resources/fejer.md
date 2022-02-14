@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lecture Notes and Readings
+parent_type: CourseSection
 resourcetype: Image
 title: fejer.PNG
+type: OCWImage
 uid: 36aa89a4-cb53-aec3-e1b3-8ae2924b2c2d
 ---
