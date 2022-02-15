@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 18.102 S2021 Final Assignment
-type: OCWFile
 uid: d867311d-281d-e60e-ef71-bd632aa7e3dc
 ---

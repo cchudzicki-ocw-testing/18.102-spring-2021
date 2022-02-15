@@ -8,6 +8,5 @@ parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 resourcetype: Other
 title: MIT18_102s21_notes.zip
-type: OCWFile
 uid: f5497ac7-1068-9585-74bb-ff00d8c4ec00
 ---

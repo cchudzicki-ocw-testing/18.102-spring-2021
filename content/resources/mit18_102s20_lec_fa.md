@@ -8,6 +8,5 @@ parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Functional Analysis Lecture Notes, Spring 2020
-type: OCWFile
 uid: 3d4cc880-26d4-4a01-f936-cd6a0aa995cb
 ---

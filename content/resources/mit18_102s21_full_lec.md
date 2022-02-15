@@ -8,6 +8,5 @@ parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 18.102 S2021 Complete Lecture Notes
-type: OCWFile
 uid: 8fb8d5c1-70f1-6131-51ac-a71de21027bc
 ---
