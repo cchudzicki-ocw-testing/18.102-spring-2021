@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-102-introduction-to-functional-analysis-spring-2021/f5497ac71068958574bbff00d8c4ec00_MIT18_102s21_notes.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lecture Notes and Readings
 parent_type: CourseSection
 resourcetype: Other
