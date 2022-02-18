@@ -40,7 +40,7 @@ Textbooks and Notes
 
 There is no assigned textbook for this course. Instead, we will follow lecture notes written by Professor Richard Melrose when he taught the course in 2020, as well as lecture notes taken by an MIT student who took the class with Dr. Rodriguez in 2021.
 
-These can be found in the [Lecture Notes and Readings]({{< baseurl >}}/pages/lecture-notes-and-readings) section.
+These can be found in the {{< resource_link f3f68fed-37d7-454c-871a-929d452ffe96 "Lecture Notes and Readings" >}} section.
 
 Assignments
 -----------
