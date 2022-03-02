@@ -5,7 +5,6 @@ ocw_type: CourseSection
 title: Lecture Notes and Readings
 uid: f3f68fed-37d7-454c-871a-929d452ffe96
 ---
-
 There is no assigned textbook for this course. Instead, we will follow lecture notes written by Professor Richard Melrose when he taught the course in 2020, as well as lecture notes taken by MIT student Andrew Lin who took the class with Dr. Rodriguez in 2021. (Both sets of notes used with permission.)
 
 \[RM\] = {{% resource_link 3d4cc880-26d4-4a01-f936-cd6a0aa995cb "Functional Analysis (PDF - 1.2MB)" %}} lecture notes by Richard Melrose, Spring 2020
@@ -150,9 +149,9 @@ Week 8
 
 Reading: \[RM\] Chapter 3, Sections 1–4
 
-{{% resource_link aad5fcf3-b0f8-5788-519a-0324258dd296 "Lecture 13: L{{< sup \"p\" %}} Space Theory (PDF)" >}}
+{{% resource_link aad5fcf3-b0f8-5788-519a-0324258dd296 "Lecture 13: L{{< sup \"p\" >}} Space Theory (PDF)" %}}
 
-{{% resource_link 439b6146-2681-3333-d541-4d8f5e436a4a "Lecture 13: L{{< sup \"p\" %}} Space Theory (TEX)" >}}
+{{% resource_link 439b6146-2681-3333-d541-4d8f5e436a4a "Lecture 13: L{{< sup \"p\" >}} Space Theory (TEX)" %}}
 
 *   The definition of L{{< sup "p" >}} spaces
 *   The completeness of L{{< sup "p" >}} spaces
