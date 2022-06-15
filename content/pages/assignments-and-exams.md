@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 11 assignments and midterm exam.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

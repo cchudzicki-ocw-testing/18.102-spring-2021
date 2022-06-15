@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes lecture overviews, reading assignments, and a full
+  set of lecture notes in both PDF and LaTeX formats.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Readings
