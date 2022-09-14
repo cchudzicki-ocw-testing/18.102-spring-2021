@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-102-introduction-to-functional-analysis-spring-2021/18102-sp21-lecture-4_360p_16_9.mp4
+file: /gdrive_uploads/18-102-introduction-to-functional-analysis-spring-2021/1GlnjxV9HMvoVYDPvr1r66cs-ULjGaG7C/18102-sp21-lecture-9.mp4
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -11,15 +11,15 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 18.102 SP21 Lecture 4.mp4
-uid: d7cc835b-5a49-49a9-ace5-d77754d25cb5
+title: 18.102 SP21 Lecture 9.mp4
+uid: a64af73d-1c1c-4bcf-b818-9ed08218cfed
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/G3mAXHuoDSw/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: G3mAXHuoDSw
+  youtube_id: ''
 ---
