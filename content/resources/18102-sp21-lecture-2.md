@@ -14,9 +14,9 @@ resourcetype: Video
 title: 18.102 SP21 Lecture 2.mp4
 uid: ab10ab20-57e5-4a10-8741-6f59d4e02bcc
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/18-102-introduction-to-functional-analysis-spring-2021/1jNmPdFOnL9uAoAWgUYyCqnotLG1oVNkW_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/78vN4sO7FVU/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/18-102-introduction-to-functional-analysis-spring-2021/1jNmPdFOnL9uAoAWgUYyCqnotLG1oVNkW_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
